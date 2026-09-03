@@ -1,17 +1,19 @@
 about:
-  description: nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+  description:
+  |
+    nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
   license: MIT
   homepage: https://nfpm.goreleaser.com/
   head: a32b892
   archived: false
   latestVersion: v2.47.0
-  collectedAt: 2026-09-03T05:11:34Z
+  collectedAt: 2026-09-03T22:37:26Z
 timeline:
   created: 2018-01-04
   lastCommit: 2026-09-03
   lastRelease: 2026-06-20
 popularity:
-  star: 2630
+  star: 2631
   watcher: 23
   fork: 191
   release: 163
@@ -23,7 +25,7 @@ language:
   Shell: 961
   HTML: 355
   Dockerfile: 222
-totalLine: 438511
+totalBytes: 438511
 recent:
   last30d:
     since: 2026-08-04
