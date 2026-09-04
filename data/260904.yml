@@ -7,7 +7,7 @@ about:
   head: a32b892
   archived: false
   latestVersion: v2.47.0
-  collectedAt: 2026-09-04T20:09:03Z
+  collectedAt: 2026-09-04T20:33:45Z
 timeline:
   created: 2018-01-04
   lastCommit: 2026-09-03
@@ -84,7 +84,7 @@ total:
   commit: 1304
 ---
 path: /home/runner/.x-repo/github.com/goreleaser/nfpm
-collectedAt: 2026-09-04T20:09:03Z
+collectedAt: 2026-09-04T20:33:46Z
 loc:
   Go:
     code: 13509
