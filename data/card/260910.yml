@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.47.0"
   latestRelease: "v2.47.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:53:49Z
+  collectedAt: 2026-09-10T23:00:44Z
 timeline:
   created: 2018-01-04
   lastCommit: 2026-09-10
@@ -86,7 +86,7 @@ total:
   commit: 1308
 ---
 path: /home/runner/.x-repo/github.com/goreleaser/nfpm
-collectedAt: 2026-09-10T20:53:50Z
+collectedAt: 2026-09-10T23:00:46Z
 loc:
   Go:
     code: 13509
