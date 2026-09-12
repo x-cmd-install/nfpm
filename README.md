@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 7 | 2 | 0 | 0 | 10 |
-| last60d | 2026-07-13 | 0 | 13 | 3 | 1 | 2 | 20 |
-| 90d | 2026-06-13 | 1 | 27 | 3 | 3 | 2 | 43 |
-| last180d | 2026-03-15 | 6 | 57 | 8 | 7 | 3 | 100 |
-| 360d | 2025-09-16 | 14 | 114 | 8 | 19 | 4 | 194 |
-| last720d | 2024-09-21 | 22 | 200 | 8 | 37 | 5 | 310 |
+| 30d | 2026-08-13 | 0 | 7 | 2 | 0 | 0 | 10 |
+| last60d | 2026-07-14 | 0 | 13 | 3 | 1 | 2 | 20 |
+| 90d | 2026-06-14 | 1 | 27 | 3 | 3 | 2 | 43 |
+| last180d | 2026-03-16 | 6 | 56 | 8 | 7 | 3 | 100 |
+| 360d | 2025-09-17 | 14 | 114 | 8 | 19 | 4 | 194 |
+| last720d | 2024-09-22 | 22 | 200 | 8 | 37 | 5 | 310 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:56:06Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:52:17Z._
