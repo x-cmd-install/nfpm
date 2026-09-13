@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2810,
       "digest": "sha256:57145efa88e31a9b471755dad60b4d58a607ea4ef869a33fae902dceaf30b98b",
-      "download_count": 13179,
+      "download_count": 13559,
       "created_at": "2026-06-20T23:36:10Z",
       "updated_at": "2026-06-20T23:36:10Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10087,
       "digest": "sha256:7fff418acc721398fbfed10ba1c70f2a6a9dfedc506208181d4589c59e7ddbdb",
-      "download_count": 6635,
+      "download_count": 6856,
       "created_at": "2026-06-20T23:36:10Z",
       "updated_at": "2026-06-20T23:36:10Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5949613,
       "digest": "sha256:8a562da94d6f68892ffce20cdc6f1678f3b3d8cb197be5ec47e3e94f20470121",
-      "download_count": 387,
+      "download_count": 388,
       "created_at": "2026-06-20T23:36:08Z",
       "updated_at": "2026-06-20T23:36:09Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm-2.47.0-1.aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5987613,
       "digest": "sha256:622036ecb0f59b33487af7885d9c8af3e708b1e38c83c9f370b2e767a816bcdd",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-06-20T23:36:08Z",
       "updated_at": "2026-06-20T23:36:09Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm-2.47.0-1.ppc64le.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6601698,
       "digest": "sha256:5ad3287a0b1d0c068e556bd84965a9866ab6451ef861506a3c09b8971ca5326f",
-      "download_count": 963,
+      "download_count": 972,
       "created_at": "2026-06-20T23:36:08Z",
       "updated_at": "2026-06-20T23:36:09Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm-2.47.0-1.x86_64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6616944,
       "digest": "sha256:3f1cf344bd0b57373ca55636a78c08b0491f7293d609a456a9ac3b0b150fda97",
-      "download_count": 8163,
+      "download_count": 8254,
       "created_at": "2026-06-20T23:36:08Z",
       "updated_at": "2026-06-20T23:36:08Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5981276,
       "digest": "sha256:27419eb382695a7942be8ad52259f3ec1854fad001b3ae4baed34ce39a223b97",
-      "download_count": 1901,
+      "download_count": 1906,
       "created_at": "2026-06-20T23:36:07Z",
       "updated_at": "2026-06-20T23:36:08Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_arm64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6213344,
       "digest": "sha256:e8c9d1d9ac218eeed479375143dc46b8d51a2b8dbba8e2f9f15ecc8faa2e404b",
-      "download_count": 1407,
+      "download_count": 1428,
       "created_at": "2026-06-20T23:36:06Z",
       "updated_at": "2026-06-20T23:36:06Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_Darwin_arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5983430,
       "digest": "sha256:1c0f5f2999b9a974bfb04fdb0cc3306096de530ac5dbb25d739cc5f5219c919c",
-      "download_count": 6692,
+      "download_count": 6810,
       "created_at": "2026-06-20T23:36:05Z",
       "updated_at": "2026-06-20T23:36:05Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_Linux_arm64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6612023,
       "digest": "sha256:0660ca602b2d2d2ae4781a06c692b3eeb9d437ffea05b831d76e41f4a3188783",
-      "download_count": 118543,
+      "download_count": 119904,
       "created_at": "2026-06-20T23:36:06Z",
       "updated_at": "2026-06-20T23:36:06Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_Linux_x86_64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 610370,
       "digest": "sha256:4b0145dbe380accae00dc04188ab257ebe26272656585ea759ad47a3bf7565f5",
-      "download_count": 141,
+      "download_count": 142,
       "created_at": "2026-06-20T23:36:06Z",
       "updated_at": "2026-06-20T23:36:07Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_source.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 6089941,
       "digest": "sha256:07aba1dafa832bc03469302b1054c1ca9dbfdf528bab4139d233cce3fe82e672",
-      "download_count": 158,
+      "download_count": 161,
       "created_at": "2026-06-20T23:36:05Z",
       "updated_at": "2026-06-20T23:36:05Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_Windows_arm64.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 6831692,
       "digest": "sha256:788f88a3bba0d89baa639aba54ba28b384958878700d440ce199a7ff4a567f11",
-      "download_count": 1275,
+      "download_count": 1290,
       "created_at": "2026-06-20T23:36:05Z",
       "updated_at": "2026-06-20T23:36:05Z",
       "browser_download_url": "https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_Windows_x86_64.zip"
