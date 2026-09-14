@@ -48,7 +48,7 @@ x install nfpm
 
 ## 流行度
 
-- **Star**: 2,637 · **Fork**: 191 · **开放 issue**: 233 · **贡献者**: 89
+- **Star**: 2,639 · **Fork**: 191 · **开放 issue**: 233 · **贡献者**: 89
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install nfpm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 7 | 2 | 0 | 0 | 10 |
-| last60d | 2026-07-15 | 0 | 13 | 3 | 1 | 2 | 20 |
-| 90d | 2026-06-15 | 1 | 25 | 3 | 3 | 2 | 43 |
-| last180d | 2026-03-17 | 6 | 56 | 8 | 7 | 3 | 100 |
-| 360d | 2025-09-18 | 14 | 114 | 8 | 19 | 4 | 194 |
-| last720d | 2024-09-23 | 22 | 200 | 8 | 36 | 5 | 310 |
+| 30d | 2026-08-15 | 0 | 7 | 2 | 0 | 0 | 8 |
+| last60d | 2026-07-16 | 0 | 13 | 3 | 1 | 2 | 19 |
+| 90d | 2026-06-16 | 1 | 25 | 3 | 3 | 2 | 34 |
+| last180d | 2026-03-18 | 6 | 56 | 8 | 7 | 3 | 91 |
+| 360d | 2025-09-19 | 14 | 114 | 8 | 19 | 4 | 189 |
+| last720d | 2024-09-24 | 22 | 199 | 8 | 36 | 5 | 309 |
 
 ## Release 资产
 
@@ -101,17 +101,6 @@ x install nfpm
 | [nfpm_2.47.0_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_Windows_x86_64.zip.sbom.json) | 122.7 KiB | `native/win/x64` |
 | [nfpm_2.47.0_x86_64.apk](https://github.com/goreleaser/nfpm/releases/download/v2.47.0/nfpm_2.47.0_x86_64.apk) | 6.5 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/nfpm) 上共有 **30** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.47.0` | ✅ latest |
-| Nix unstable | `2.47.0` | ✅ latest |
-| Alpine edge | `2.47.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.47.0` | ✅ latest |
-
 ## 改进这些数据
 
 nfpm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `nfpm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -121,4 +110,4 @@ nfpm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:19:14Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:13:48Z._
