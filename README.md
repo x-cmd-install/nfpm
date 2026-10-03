@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.47.0` (2026-06-20)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-10-02
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 2,661 · **Forks**: 192 · **Open issues**: 234 · **Contributors**: 89
+- **Stars**: 2,662 · **Forks**: 192 · **Open issues**: 235 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 163 · **Merged PRs**: 739 · **Open PRs**: 16 · **Closed issues**: 225 · **Open issues**: 9 · **Commits**: 1310
+- **Releases**: 163 · **Merged PRs**: 743 · **Open PRs**: 12 · **Closed issues**: 225 · **Open issues**: 10 · **Commits**: 1314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 4 | 8 | 0 | 1 | 6 |
-| last60d | 2026-08-03 | 0 | 12 | 9 | 1 | 2 | 18 |
-| 90d | 2026-07-04 | 0 | 20 | 10 | 2 | 3 | 26 |
-| last180d | 2026-04-05 | 4 | 52 | 14 | 6 | 3 | 83 |
-| 360d | 2025-10-07 | 12 | 107 | 15 | 18 | 5 | 181 |
-| last720d | 2024-10-12 | 22 | 195 | 15 | 36 | 6 | 304 |
+| 30d | 2026-09-03 | 0 | 8 | 4 | 0 | 2 | 10 |
+| last60d | 2026-08-04 | 0 | 16 | 5 | 1 | 3 | 22 |
+| 90d | 2026-07-05 | 0 | 24 | 6 | 2 | 4 | 30 |
+| last180d | 2026-04-06 | 4 | 55 | 10 | 6 | 4 | 87 |
+| 360d | 2025-10-08 | 12 | 111 | 11 | 18 | 6 | 185 |
+| last720d | 2024-10-13 | 22 | 199 | 11 | 36 | 7 | 308 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:51:37Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:38:49Z._
