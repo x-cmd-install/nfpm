@@ -26,13 +26,13 @@ Total: **17,189** lines of code across **111** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.3 / 10**
+Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,662 · **Forks**: 192 · **Open issues**: 235 · **Contributors**: 89
+- **Stars**: 2,664 · **Forks**: 192 · **Open issues**: 235 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 163 · **Merged PRs**: 743 · **Open PRs**: 12 · **Closed issues**: 225 · **Open issues**: 10 · **Commits**: 1314
+- **Releases**: 163 · **Merged PRs**: 743 · **Open PRs**: 14 · **Closed issues**: 225 · **Open issues**: 10 · **Commits**: 1314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 8 | 4 | 0 | 2 | 6 |
-| last60d | 2026-08-06 | 0 | 16 | 5 | 0 | 3 | 16 |
-| 90d | 2026-07-07 | 0 | 22 | 6 | 2 | 4 | 28 |
-| last180d | 2026-04-08 | 4 | 55 | 10 | 6 | 4 | 81 |
-| 360d | 2025-10-10 | 12 | 110 | 11 | 18 | 6 | 182 |
-| last720d | 2024-10-15 | 22 | 197 | 11 | 36 | 7 | 306 |
+| 30d | 2026-09-06 | 0 | 8 | 6 | 0 | 2 | 6 |
+| last60d | 2026-08-07 | 0 | 16 | 7 | 0 | 2 | 16 |
+| 90d | 2026-07-08 | 0 | 22 | 8 | 2 | 4 | 28 |
+| last180d | 2026-04-09 | 4 | 55 | 12 | 6 | 4 | 81 |
+| 360d | 2025-10-11 | 11 | 110 | 13 | 18 | 6 | 182 |
+| last720d | 2024-10-16 | 22 | 197 | 13 | 36 | 7 | 306 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:52:49Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:40:42Z._
