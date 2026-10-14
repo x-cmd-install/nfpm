@@ -26,11 +26,11 @@ x install nfpm
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.1 / 10**
+总评分: **6.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ x install nfpm
 ## 发布
 
 - **最新版本**: `v2.48.0` (2026-10-12)
-- **最近提交**: 2026-10-12
+- **最近提交**: 2026-10-13
 - **Release 含资产**: 31 个
 
 ## 流行度
 
-- **Star**: 2,670 · **Fork**: 194 · **开放 issue**: 235 · **贡献者**: 94
+- **Star**: 2,671 · **Fork**: 194 · **开放 issue**: 235 · **贡献者**: 94
 
 ## 累计统计
 
-- **发布数**: 164 · **已合并 PR**: 755 · **开放 PR**: 13 · **已关闭 issue**: 228 · **开放 issue**: 7 · **提交数**: 1327
+- **发布数**: 164 · **已合并 PR**: 756 · **开放 PR**: 12 · **已关闭 issue**: 228 · **开放 issue**: 7 · **提交数**: 1328
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 16 | 6 | 2 | 0 | 17 |
-| last60d | 2026-08-14 | 1 | 24 | 7 | 2 | 0 | 27 |
-| 90d | 2026-07-15 | 1 | 30 | 8 | 4 | 1 | 38 |
-| last180d | 2026-04-16 | 4 | 63 | 10 | 8 | 1 | 85 |
-| 360d | 2025-10-18 | 12 | 119 | 12 | 21 | 3 | 193 |
-| last720d | 2024-10-23 | 23 | 207 | 12 | 38 | 4 | 319 |
+| 30d | 2026-09-14 | 1 | 15 | 5 | 2 | 0 | 18 |
+| last60d | 2026-08-15 | 1 | 25 | 6 | 2 | 0 | 28 |
+| 90d | 2026-07-16 | 1 | 31 | 7 | 4 | 1 | 39 |
+| last180d | 2026-04-17 | 4 | 63 | 9 | 8 | 1 | 86 |
+| 360d | 2025-10-19 | 12 | 120 | 11 | 21 | 3 | 194 |
+| last720d | 2024-10-24 | 23 | 208 | 11 | 38 | 4 | 320 |
 
 ## Release 资产
 
@@ -110,4 +110,4 @@ nfpm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:17:03Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:08:02Z._

@@ -26,11 +26,11 @@ Total: **17,778** lines of code across **114** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.1 / 10**
+Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 3/8 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.48.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 2,670 · **Forks**: 194 · **Open issues**: 235 · **Contributors**: 94
+- **Stars**: 2,671 · **Forks**: 194 · **Open issues**: 235 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 755 · **Open PRs**: 13 · **Closed issues**: 228 · **Open issues**: 7 · **Commits**: 1327
+- **Releases**: 164 · **Merged PRs**: 756 · **Open PRs**: 12 · **Closed issues**: 228 · **Open issues**: 7 · **Commits**: 1328
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 16 | 6 | 2 | 0 | 17 |
-| last60d | 2026-08-14 | 1 | 24 | 7 | 2 | 0 | 27 |
-| 90d | 2026-07-15 | 1 | 30 | 8 | 4 | 1 | 38 |
-| last180d | 2026-04-16 | 4 | 63 | 10 | 8 | 1 | 85 |
-| 360d | 2025-10-18 | 12 | 119 | 12 | 21 | 3 | 193 |
-| last720d | 2024-10-23 | 23 | 207 | 12 | 38 | 4 | 319 |
+| 30d | 2026-09-14 | 1 | 15 | 5 | 2 | 0 | 18 |
+| last60d | 2026-08-15 | 1 | 25 | 6 | 2 | 0 | 28 |
+| 90d | 2026-07-16 | 1 | 31 | 7 | 4 | 1 | 39 |
+| last180d | 2026-04-17 | 4 | 63 | 9 | 8 | 1 | 86 |
+| 360d | 2025-10-19 | 12 | 120 | 11 | 21 | 3 | 194 |
+| last720d | 2024-10-24 | 23 | 208 | 11 | 38 | 4 | 320 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:17:02Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:08:01Z._
