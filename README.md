@@ -14,12 +14,12 @@ x install nfpm
 
 ## Code insight
 
-Total: **17,778** lines of code across **114** files in the top 5 languages.
+Total: **17,782** lines of code across **114** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 14,037 | 674 | 1,998 | 50 |
-| Yaml | 1,352 | 17 | 44 | 51 |
+| Yaml | 1,354 | 17 | 44 | 51 |
 | Json | 1,120 | 0 | 0 | 1 |
 | Dockerfile | 777 | 109 | 167 | 11 |
 | Svg | 265 | 0 | 0 | 1 |
@@ -30,7 +30,7 @@ Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 7/15 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.48.0` (2026-10-12)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-20
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 2,674 · **Forks**: 195 · **Open issues**: 235 · **Contributors**: 94
+- **Stars**: 2,674 · **Forks**: 195 · **Open issues**: 235 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 756 · **Open PRs**: 12 · **Closed issues**: 228 · **Open issues**: 7 · **Commits**: 1328
+- **Releases**: 164 · **Merged PRs**: 760 · **Open PRs**: 11 · **Closed issues**: 229 · **Open issues**: 6 · **Commits**: 1332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 14 | 5 | 2 | 0 | 18 |
-| last60d | 2026-08-20 | 1 | 23 | 6 | 2 | 0 | 28 |
-| 90d | 2026-07-21 | 1 | 31 | 7 | 4 | 1 | 39 |
-| last180d | 2026-04-22 | 2 | 60 | 9 | 8 | 1 | 84 |
-| 360d | 2025-10-24 | 12 | 120 | 11 | 21 | 3 | 193 |
-| last720d | 2024-10-29 | 22 | 208 | 11 | 38 | 4 | 315 |
+| 30d | 2026-09-20 | 1 | 18 | 4 | 2 | 0 | 22 |
+| last60d | 2026-08-21 | 1 | 27 | 5 | 2 | 0 | 32 |
+| 90d | 2026-07-22 | 1 | 35 | 5 | 4 | 0 | 43 |
+| last180d | 2026-04-23 | 2 | 64 | 8 | 8 | 1 | 88 |
+| 360d | 2025-10-25 | 12 | 124 | 10 | 22 | 2 | 197 |
+| last720d | 2024-10-30 | 22 | 211 | 10 | 39 | 3 | 319 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:49:59Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:02:32Z._
