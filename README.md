@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,675 · **Forks**: 194 · **Open issues**: 235 · **Contributors**: 95
+- **Stars**: 2,676 · **Forks**: 193 · **Open issues**: 235 · **Contributors**: 95
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 17 | 4 | 1 | 0 | 22 |
-| last60d | 2026-08-24 | 1 | 25 | 5 | 2 | 0 | 32 |
-| 90d | 2026-07-25 | 1 | 35 | 5 | 4 | 0 | 43 |
-| last180d | 2026-04-26 | 2 | 64 | 8 | 8 | 1 | 88 |
-| 360d | 2025-10-28 | 12 | 123 | 10 | 22 | 2 | 197 |
-| last720d | 2024-11-02 | 22 | 211 | 10 | 39 | 3 | 318 |
+| 30d | 2026-09-24 | 1 | 17 | 4 | 1 | 0 | 22 |
+| last60d | 2026-08-25 | 1 | 25 | 5 | 2 | 0 | 32 |
+| 90d | 2026-07-26 | 1 | 35 | 5 | 4 | 0 | 43 |
+| last180d | 2026-04-27 | 2 | 62 | 8 | 8 | 1 | 88 |
+| 360d | 2025-10-29 | 12 | 123 | 10 | 22 | 2 | 197 |
+| last720d | 2024-11-03 | 22 | 211 | 10 | 39 | 3 | 318 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:00:22Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:57:03Z._
