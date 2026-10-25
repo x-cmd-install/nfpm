@@ -336,9 +336,9 @@
 - repo: nix_unstable
   srcname: nfpm
   visiblename: nfpm
-  version: 2.47.0
+  version: 2.48.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Simple deb and rpm packager written in Go
   maintainers:
     - techknowlogick@gitea.com
