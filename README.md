@@ -30,7 +30,7 @@ Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 7/15 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 7/16 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.48.0` (2026-10-12)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-26
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 2,678 · **Forks**: 193 · **Open issues**: 235 · **Contributors**: 95
+- **Stars**: 2,677 · **Forks**: 193 · **Open issues**: 235 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 760 · **Open PRs**: 11 · **Closed issues**: 229 · **Open issues**: 6 · **Commits**: 1332
+- **Releases**: 164 · **Merged PRs**: 764 · **Open PRs**: 11 · **Closed issues**: 229 · **Open issues**: 6 · **Commits**: 1336
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 17 | 4 | 1 | 0 | 22 |
-| last60d | 2026-08-27 | 1 | 25 | 5 | 2 | 0 | 30 |
-| 90d | 2026-07-28 | 1 | 33 | 5 | 4 | 0 | 41 |
-| last180d | 2026-04-29 | 2 | 62 | 8 | 8 | 1 | 83 |
-| 360d | 2025-10-31 | 12 | 123 | 10 | 22 | 2 | 196 |
-| last720d | 2024-11-05 | 22 | 211 | 10 | 39 | 3 | 318 |
+| 30d | 2026-09-27 | 1 | 20 | 4 | 1 | 0 | 26 |
+| last60d | 2026-08-28 | 1 | 29 | 5 | 2 | 0 | 34 |
+| 90d | 2026-07-29 | 1 | 37 | 5 | 4 | 0 | 45 |
+| last180d | 2026-04-30 | 2 | 65 | 8 | 7 | 1 | 87 |
+| 360d | 2025-11-01 | 12 | 127 | 10 | 22 | 2 | 200 |
+| last720d | 2024-11-06 | 22 | 214 | 10 | 39 | 3 | 322 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:56:18Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:21:53Z._
