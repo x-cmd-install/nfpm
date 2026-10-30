@@ -1,14 +1,37 @@
-- repo: aur
-  srcname: nfpm-bin
-  binname: nfpm-bin
-  visiblename: nfpm-bin
-  version: 2.48.0
-  origversion: 2.48.0-1
-  status: newest
-  summary: nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go.
+- repo: nix_stable_25_05
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.42.0
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
   maintainers:
-    - ldez@aur
-    - caarlos0@aur
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.43.4
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
+  maintainers:
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.40.0
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
+  maintainers:
+    - techknowlogick@gitea.com
+    - carlos@becker.software
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -22,18 +45,6 @@
   summary: a simple apk, Deb and RPM packager without external dependencies
   maintainers:
     - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.42.0
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -166,18 +177,6 @@
     - kdaudt@alpinelinux.org
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.43.4
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: nfpm
@@ -197,7 +196,7 @@
   binname: nfpm
   visiblename: nfpm
   version: 2.48.0
-  origversion: 2.48.0-r0
+  origversion: 2.48.0-r1
   status: newest
   summary: a simple apk, Deb and RPM packager without external dependencies
   maintainers:
@@ -210,7 +209,7 @@
   binname: nfpm-doc
   visiblename: nfpm-doc
   version: 2.48.0
-  origversion: 2.48.0-r0
+  origversion: 2.48.0-r1
   status: newest
   summary: a simple apk, Deb and RPM packager without external dependencies (documentation)
   maintainers:
@@ -244,6 +243,19 @@
   origversion: 2.48.0-1
   status: newest
   summary: nFPM is a simple, 0-dependencies, deb, rpm and apk packager.
+  maintainers:
+    - ldez@aur
+    - caarlos0@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: nfpm-bin
+  binname: nfpm-bin
+  visiblename: nfpm-bin
+  version: 2.48.0
+  origversion: 2.48.0-1
+  status: newest
+  summary: nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go.
   maintainers:
     - ldez@aur
     - caarlos0@aur
@@ -304,18 +316,6 @@
   origversion: null
   status: outdated
   summary: A simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.40.0
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
   maintainers:
     - techknowlogick@gitea.com
     - carlos@becker.software
