@@ -14,11 +14,11 @@ x install nfpm
 
 ## Code insight
 
-Total: **17,985** lines of code across **116** files in the top 5 languages.
+Total: **18,020** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,198 | 686 | 2,018 | 51 |
+| Go | 14,233 | 686 | 2,022 | 51 |
 | Yaml | 1,381 | 17 | 44 | 52 |
 | Json | 1,125 | 0 | 0 | 1 |
 | Dockerfile | 784 | 112 | 168 | 11 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.48.0` (2026-10-12)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-02
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 2,682 · **Forks**: 194 · **Open issues**: 237 · **Contributors**: 95
+- **Stars**: 2,682 · **Forks**: 193 · **Open issues**: 237 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 764 · **Open PRs**: 11 · **Closed issues**: 229 · **Open issues**: 8 · **Commits**: 1337
+- **Releases**: 164 · **Merged PRs**: 766 · **Open PRs**: 11 · **Closed issues**: 230 · **Open issues**: 7 · **Commits**: 1339
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 17 | 4 | 0 | 2 | 20 |
-| last60d | 2026-09-03 | 1 | 27 | 5 | 2 | 2 | 33 |
-| 90d | 2026-08-04 | 1 | 36 | 5 | 4 | 2 | 42 |
-| last180d | 2026-05-06 | 2 | 62 | 8 | 7 | 3 | 85 |
-| 360d | 2025-11-07 | 12 | 126 | 10 | 22 | 4 | 200 |
-| last720d | 2024-11-12 | 22 | 213 | 10 | 39 | 5 | 319 |
+| 30d | 2026-10-04 | 1 | 19 | 4 | 1 | 1 | 22 |
+| last60d | 2026-09-04 | 1 | 29 | 5 | 3 | 1 | 35 |
+| 90d | 2026-08-05 | 1 | 38 | 5 | 4 | 1 | 44 |
+| last180d | 2026-05-07 | 2 | 64 | 8 | 8 | 2 | 87 |
+| 360d | 2025-11-08 | 12 | 128 | 10 | 23 | 3 | 202 |
+| last720d | 2024-11-13 | 22 | 215 | 10 | 39 | 4 | 321 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:21:39Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:14:30Z._
