@@ -30,9 +30,9 @@ Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 7/16 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,682 · **Forks**: 193 · **Open issues**: 237 · **Contributors**: 96
+- **Stars**: 2,683 · **Forks**: 193 · **Open issues**: 237 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 19 | 4 | 1 | 1 | 22 |
-| last60d | 2026-09-04 | 1 | 29 | 5 | 3 | 1 | 35 |
-| 90d | 2026-08-05 | 1 | 38 | 5 | 4 | 1 | 44 |
-| last180d | 2026-05-07 | 2 | 64 | 8 | 8 | 2 | 87 |
-| 360d | 2025-11-08 | 12 | 128 | 10 | 23 | 3 | 202 |
-| last720d | 2024-11-13 | 22 | 215 | 10 | 39 | 4 | 321 |
+| 30d | 2026-10-05 | 1 | 17 | 4 | 1 | 1 | 22 |
+| last60d | 2026-09-05 | 1 | 29 | 5 | 3 | 1 | 35 |
+| 90d | 2026-08-06 | 1 | 38 | 5 | 4 | 1 | 44 |
+| last180d | 2026-05-08 | 2 | 64 | 8 | 8 | 2 | 87 |
+| 360d | 2025-11-09 | 12 | 128 | 10 | 23 | 3 | 202 |
+| last720d | 2024-11-14 | 22 | 215 | 10 | 38 | 4 | 321 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:14:30Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:35:33Z._
