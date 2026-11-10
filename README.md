@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 766 · **Open PRs**: 11 · **Closed issues**: 230 · **Open issues**: 7 · **Commits**: 1339
+- **Releases**: 164 · **Merged PRs**: 766 · **Open PRs**: 13 · **Closed issues**: 230 · **Open issues**: 7 · **Commits**: 1339
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 15 | 1 | 1 | 1 | 11 |
-| last60d | 2026-09-10 | 1 | 27 | 4 | 3 | 1 | 29 |
-| 90d | 2026-08-11 | 1 | 35 | 5 | 3 | 1 | 41 |
-| last180d | 2026-05-13 | 2 | 61 | 8 | 8 | 2 | 86 |
-| 360d | 2025-11-14 | 12 | 127 | 10 | 23 | 3 | 191 |
-| last720d | 2024-11-19 | 21 | 211 | 10 | 38 | 4 | 318 |
+| 30d | 2026-10-11 | 1 | 15 | 3 | 1 | 1 | 11 |
+| last60d | 2026-09-11 | 1 | 27 | 6 | 3 | 1 | 29 |
+| 90d | 2026-08-12 | 1 | 35 | 7 | 3 | 1 | 41 |
+| last180d | 2026-05-14 | 2 | 61 | 10 | 8 | 2 | 86 |
+| 360d | 2025-11-15 | 12 | 127 | 12 | 22 | 3 | 191 |
+| last720d | 2024-11-20 | 21 | 210 | 12 | 38 | 4 | 316 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:45:33Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:43:53Z._
