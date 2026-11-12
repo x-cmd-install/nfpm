@@ -10,30 +10,6 @@
     - carlos@becker.software
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.43.4
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.40.0
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: nfpm
@@ -197,7 +173,7 @@
   visiblename: nfpm
   version: 2.48.0
   origversion: 2.48.0-r1
-  status: newest
+  status: outdated
   summary: a simple apk, Deb and RPM packager without external dependencies
   maintainers:
     - kdaudt@alpinelinux.org
@@ -210,7 +186,7 @@
   visiblename: nfpm-doc
   version: 2.48.0
   origversion: 2.48.0-r1
-  status: newest
+  status: outdated
   summary: a simple apk, Deb and RPM packager without external dependencies (documentation)
   maintainers:
     - kdaudt@alpinelinux.org
@@ -227,7 +203,7 @@
   visiblename: nfpm
   version: 2.48.0
   origversion: 2.48.0-alt1
-  status: newest
+  status: outdated
   summary: Simple deb, rpm, apk and arch linux packager written in Go
   maintainers:
     - minergenon@altlinux.org
@@ -239,8 +215,8 @@
   srcname: nfpm
   binname: nfpm
   visiblename: nfpm
-  version: 2.48.0
-  origversion: 2.48.0-1
+  version: 2.49.0
+  origversion: 2.49.0-1
   status: newest
   summary: nFPM is a simple, 0-dependencies, deb, rpm and apk packager.
   maintainers:
@@ -252,8 +228,8 @@
   srcname: nfpm-bin
   binname: nfpm-bin
   visiblename: nfpm-bin
-  version: 2.48.0
-  origversion: 2.48.0-1
+  version: 2.49.0
+  origversion: 2.49.0-1
   status: newest
   summary: nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go.
   maintainers:
@@ -266,8 +242,8 @@
   binname: nfpm
   visiblename: archivers/nfpm
   version: 2.48.0
-  origversion: 2.48.0_1
-  status: newest
+  origversion: 2.48.0_2
+  status: outdated
   summary: Simple deb, rpm and apk packager written in Go
   maintainers:
     - yuri@freebsd.org
@@ -284,7 +260,7 @@
 - repo: homebrew
   srcname: nfpm
   visiblename: nfpm
-  version: 2.48.0
+  version: 2.49.0
   origversion: null
   status: newest
   summary: Simple deb and rpm packager
@@ -301,7 +277,7 @@
   visiblename: nfpm
   version: 2.48.0
   origversion: null
-  status: newest
+  status: outdated
   summary: nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
   maintainers:
     - herbygillot@github
@@ -316,6 +292,30 @@
   origversion: null
   status: outdated
   summary: A simple deb and rpm packager written in Go
+  maintainers:
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.40.0
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
+  maintainers:
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.43.4
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
   maintainers:
     - techknowlogick@gitea.com
     - carlos@becker.software
@@ -338,7 +338,7 @@
   visiblename: nfpm
   version: 2.48.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Simple deb and rpm packager written in Go
   maintainers:
     - techknowlogick@gitea.com
@@ -358,7 +358,7 @@
   visiblename: nfpm
   version: 2.48.0
   origversion: 2.48.0-1.1
-  status: newest
+  status: outdated
   summary: Simple deb, rpm, apk and arch linux packager written in Go
   licenses:
     - MIT
@@ -368,7 +368,7 @@
   subrepo: main
   binname: nfpm
   visiblename: nfpm
-  version: 2.48.0
+  version: 2.49.0
   origversion: null
   status: newest
   licenses:
