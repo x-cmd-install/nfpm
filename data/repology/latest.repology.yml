@@ -189,16 +189,16 @@
     - nfpm-fish-completion
     - nfpm-zsh-completion
   visiblename: nfpm
-  version: 2.48.0
-  origversion: 2.48.0-alt1
-  status: outdated
+  version: 2.49.0
+  origversion: 2.49.0-alt1
+  status: newest
   summary: Simple deb, rpm, apk and arch linux packager written in Go
   maintainers:
     - minergenon@altlinux.org
   licenses:
     - MIT
   categories:
-    - Other
+    - Development/Tools
 - repo: aur
   srcname: nfpm
   binname: nfpm
