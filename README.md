@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,690 · **Forks**: 193 · **Open issues**: 237 · **Contributors**: 97
+- **Stars**: 2,695 · **Forks**: 193 · **Open issues**: 237 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 165 · **Merged PRs**: 778 · **Open PRs**: 9 · **Closed issues**: 230 · **Open issues**: 7 · **Commits**: 1353
+- **Releases**: 165 · **Merged PRs**: 778 · **Open PRs**: 10 · **Closed issues**: 230 · **Open issues**: 7 · **Commits**: 1353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 20 | 1 | 1 | 1 | 25 |
-| last60d | 2026-09-15 | 2 | 35 | 4 | 3 | 1 | 43 |
-| 90d | 2026-08-16 | 2 | 46 | 4 | 3 | 1 | 55 |
-| last180d | 2026-05-18 | 3 | 70 | 6 | 7 | 2 | 100 |
-| 360d | 2025-11-19 | 13 | 137 | 8 | 22 | 3 | 205 |
-| last720d | 2024-11-24 | 22 | 220 | 8 | 38 | 4 | 328 |
+| 30d | 2026-10-16 | 1 | 20 | 2 | 1 | 1 | 21 |
+| last60d | 2026-09-16 | 2 | 34 | 5 | 3 | 1 | 43 |
+| 90d | 2026-08-17 | 2 | 44 | 5 | 3 | 1 | 53 |
+| last180d | 2026-05-19 | 3 | 69 | 7 | 7 | 2 | 100 |
+| 360d | 2025-11-20 | 13 | 134 | 9 | 22 | 3 | 200 |
+| last720d | 2024-11-25 | 22 | 219 | 9 | 37 | 4 | 328 |
 
 ## Release assets
 
@@ -103,7 +103,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **30** distros on [repology.org](https://repology.org/project/nfpm). **6** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/nfpm). **7** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:45:55Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:47:07Z._
