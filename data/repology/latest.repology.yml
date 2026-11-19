@@ -1,27 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.42.0
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: nfpm
-  visiblename: nfpm
-  version: 2.40.0
-  origversion: null
-  status: outdated
-  summary: Simple deb and rpm packager written in Go
-  maintainers:
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: nfpm
@@ -98,6 +74,15 @@
   summary: a simple apk, Deb and RPM packager without external dependencies (documentation)
   maintainers:
     - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: nfpm
+  visiblename: nfpm
+  version: 2.49.0
+  origversion: null
+  status: newest
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -309,6 +294,30 @@
     - carlos@becker.software
   licenses:
     - MIT
+- repo: nix_stable_24_11
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.40.0
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
+  maintainers:
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: nfpm
+  visiblename: nfpm
+  version: 2.42.0
+  origversion: null
+  status: outdated
+  summary: Simple deb and rpm packager written in Go
+  maintainers:
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: nfpm
   visiblename: nfpm
@@ -364,12 +373,3 @@
     - MIT
   categories:
     - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: nfpm
-  visiblename: nfpm
-  version: 2.49.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
