@@ -14,11 +14,11 @@ x install nfpm
 
 ## Code insight
 
-Total: **25,153** lines of code across **163** files in the top 5 languages.
+Total: **25,267** lines of code across **163** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 20,092 | 1,196 | 2,508 | 73 |
+| Go | 20,206 | 1,204 | 2,520 | 73 |
 | Yaml | 1,816 | 39 | 52 | 63 |
 | Json | 1,407 | 0 | 0 | 2 |
 | Dockerfile | 784 | 112 | 168 | 11 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,702 · **Forks**: 196 · **Open issues**: 237 · **Contributors**: 97
+- **Stars**: 2,702 · **Forks**: 197 · **Open issues**: 237 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 165 · **Merged PRs**: 784 · **Open PRs**: 14 · **Closed issues**: 232 · **Open issues**: 5 · **Commits**: 1359
+- **Releases**: 165 · **Merged PRs**: 785 · **Open PRs**: 13 · **Closed issues**: 233 · **Open issues**: 4 · **Commits**: 1360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 22 | 6 | 1 | 1 | 27 |
-| last60d | 2026-09-22 | 2 | 39 | 9 | 3 | 1 | 49 |
-| 90d | 2026-08-23 | 2 | 50 | 9 | 3 | 1 | 59 |
-| last180d | 2026-05-25 | 3 | 75 | 11 | 8 | 1 | 106 |
-| 360d | 2025-11-26 | 13 | 138 | 13 | 22 | 2 | 206 |
-| last720d | 2024-12-01 | 22 | 225 | 13 | 39 | 2 | 332 |
+| 30d | 2026-10-23 | 1 | 23 | 5 | 2 | 0 | 23 |
+| last60d | 2026-09-23 | 2 | 40 | 8 | 3 | 0 | 50 |
+| 90d | 2026-08-24 | 2 | 49 | 8 | 4 | 0 | 58 |
+| last180d | 2026-05-26 | 3 | 76 | 10 | 9 | 0 | 104 |
+| 360d | 2025-11-27 | 13 | 139 | 12 | 23 | 1 | 203 |
+| last720d | 2024-12-02 | 22 | 226 | 12 | 40 | 1 | 333 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for nfpm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:21:03Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:03:16Z._
